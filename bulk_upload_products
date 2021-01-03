@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "Fan",
+    "product_category": "Electronics",
+    "product_price": 120
+  },
+  {
+    "product_name": "Wire",
+    "product_category": "Electronics",
+    "product_price": 30
+  },
+  {
+    "product_name": "Tubelight",
+    "product_category": "Electronics",
+    "product_price": 90
+  }
+]
