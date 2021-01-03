@@ -14,7 +14,9 @@ This application compares products based on names and categories from different 
 
 `docker-compose down`
 
-# Scope of given task:
+<br/>
+
+## Given Task:
 
 ### 1. API Swagger Documentation:
 
@@ -24,6 +26,7 @@ This application compares products based on names and categories from different 
 
 ![diagram](docs_screenshots/products_based_on_name_category.png)
 
+<br/>
 
 ## Data Import scenarios:
 
